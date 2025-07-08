@@ -54,7 +54,7 @@ To build a smart system that predicts an individual’s willingness to donate bl
 
 ###  Installation
 
-git clone https://github.com/asthasingh148/blood-donation-predictor.git
+git clone [https://github.com/asthasingh148/blood-donation-predictor.git](https://github.com/asthasingh148/blood-donation-elgibility/tree/main)
 cd blood-donation-predictor
 pip install -r requirements.txt
 
